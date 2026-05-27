@@ -1,16 +1,46 @@
-# React + Vite
+# 📝 Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and simple **Notes Application** built with React and Vite. Create, manage, and organize your notes with ease.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+> Coming soon...
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📌 Create new notes instantly
+- 🗑️ Delete notes you no longer need
+
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| React | Frontend UI |
+| Vite | Build tool & dev server |
+| CSS | Styling |
+| JavaScript (ES6+) | Logic |
+
+---
+
+## 📁 Project Structure
+
+```
+11-notes-app/
+├── public/
+├── src/
+│   ├── App.jsx        # Main app component
+│   ├── index.css      # Global styles
+│   └── main.jsx       # Entry point
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
