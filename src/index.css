@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body{
+  background-image: linear-gradient(rgba(0,0,0,0.77), rgba(0,0,0,0.77)), url('https://images.pexels.com/photos/1629212/pexels-photo-1629212.jpeg?cs=srgb&dl=pexels-minan1398-1629212.jpg&fm=jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  
+}
