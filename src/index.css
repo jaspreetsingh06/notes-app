@@ -1,5 +1,21 @@
 @import "tailwindcss";
 
+/* Professional Scrollbar */
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 5px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 9999px;
+}
+
+
 body{
   background-image: linear-gradient(rgba(0,0,0,0.77), rgba(0,0,0,0.77)), url('https://images.pexels.com/photos/1629212/pexels-photo-1629212.jpeg?cs=srgb&dl=pexels-minan1398-1629212.jpg&fm=jpg');
   background-size: cover;
