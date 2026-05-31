@@ -1,21 +1,23 @@
 # 📝 Notes App
 
-A clean and simple **Notes Application** built with React and Vite. Create, manage, and organize your notes with ease.
-
+A responsive Notes App built with React and Tailwind CSS featuring CRUD operations, search functionality, local storage persistence, character count, and note editing.
 ---
 
 ## 🚀 Live Demo
 
-> Coming soon...
-
+https://notes-app-psi-weld.vercel.app/
 ---
 
 ## ✨ Features
 
-- 📌 Create new notes instantly
-- 🗑️ Delete notes you no longer need
-
-
+- Create Notes
+- Edit Notes
+- Delete Notes
+- Search Notes
+- Local Storage Persistence
+- Character Counter
+- Responsive Design
+- Real-time Updates
 ---
 
 ## 🛠️ Tech Stack
